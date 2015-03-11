@@ -3,8 +3,8 @@ Contributors: James Liu
 Donate link: http://jmsliu.com/products/online-bootstrap-donation/
 Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail
 Requires at least: 2.0.2
-Tested up to: 3.5.1
-Stable tag: 1.0
+Tested up to: 4.1
+Stable tag: 2.0
 
 Adds the featured image tag <jms-featured-image> to your posts to the RSS feed.
 
@@ -28,11 +28,15 @@ This plugin adds the featured image of each post to the RSS feed. The featured i
 In your site's RSS feed. If you have featured image in your posts, you will find <jms-featured-image> in your rss feed.
 
 == Changelog ==
+= 2.0 =
+Add customization url in your wordpress to return a plain text of your articles.
 
 = 1.0 =
 * First build
 
 == Upgrade Notice ==
+= 2.0 =
+Add customization url in your wordpress to return a plain text of your articles.
 
 = 1.0 =
 There is only one version available at this time
