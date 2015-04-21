@@ -3,7 +3,7 @@ Contributors: James Liu
 Donate link: http://jmsliu.com/products/online-bootstrap-donation/
 Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail
 Requires at least: 2.0.2
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 2.0
 
 Adds the featured image tag <jms-featured-image> to your posts to the RSS feed.
