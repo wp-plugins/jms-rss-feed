@@ -1,10 +1,10 @@
 === JMS Rss Feed ===
 Contributors: James Liu
 Donate link: http://jmsliu.com/products/online-bootstrap-donation/
-Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail
+Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail, push notification, Google Cloud Message, GCM
 Requires at least: 2.0.2
 Tested up to: 4.2
-Stable tag: 2.0
+Stable tag: 3.0
 
 Adds the featured image tag <jms-featured-image> to your posts to the RSS feed.
 
@@ -18,6 +18,11 @@ This plugin only does one task, adding your posts' featured image to the RSS fee
 2. Activate the plugin through the Plugins menu in WordPress
 
 == Frequently Asked Questions ==
+Q1: How to get simple post xml?
+A1: http://website.com/index.php?jms_rss_post_url=full_url
+
+Q2: How to register android phone for GCM (not safe)?
+A2: http://website.com/index.php?jms_rss_action=register_android&jms_rss_token=token
 
 = What does this plugin do? =
 
